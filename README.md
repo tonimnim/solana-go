@@ -83,6 +83,7 @@ Thanks!
 
 ## Current development status
 
+
 There is currently **no stable release**. The SDK is actively developed and latest is `v1.12.0` which is an `alpha` release.
 
 The RPC and WS client implementation is based on [this RPC spec](https://github.com/solana-labs/solana/blob/c2435363f39723cef59b91322f3b6a815008af29/docs/src/developing/clients/jsonrpc-api.md).
